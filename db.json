@@ -26,8 +26,7 @@
     "date":"01-02-2021",
     "time":"20:45",
     "venue":"MALL"
-  },  
-    
+  }, 
   {
     "id": 4,
     "type":"Concert",
@@ -36,7 +35,7 @@
     "date":"01-02-2021",
     "time":"20:45",
     "venue":"MALL"
-  }
+  },
   {
     "id": 5,
     "type":"Speaking",
@@ -46,7 +45,5 @@
     "time":"20:45",
     "venue":"MALL"
   }
-  
-  
   ]
 }
