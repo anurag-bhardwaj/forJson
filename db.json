@@ -8,5 +8,17 @@
     "date":"01-01-2020",
     "time":"8:45",
     "venue":"Ghumarwin"
-  }]
+  },
+    {
+    "id": 2,
+    "type":"Comedy",
+    "title": "The Show",
+    "desciption": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+    "date":"01-01-2021",
+    "time":"18:45",
+    "venue":"Bilaspur"
+  }
+  
+  
+  ]
 }
