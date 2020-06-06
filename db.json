@@ -5,7 +5,7 @@
     "type":"Comedy",
     "title": "The Laughter Challenge",
     "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-    "date":"01-01-2020",
+    "date":"2020-01-10",
     "time":"8:45",
     "venue":"Ghumarwin"
   },
@@ -14,7 +14,7 @@
     "type":"Comedy",
     "title": "The Show",
     "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-    "date":"01-01-2021",
+    "date":"2021-01-01",
     "time":"18:45",
     "venue":"Bilaspur"
   },
@@ -23,7 +23,7 @@
     "type":"Concert",
     "title": "EDX",
     "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-    "date":"01-02-2021",
+    "date":"2022-02-10",
     "time":"20:45",
     "venue":"MALL"
   }, 
@@ -32,7 +32,7 @@
     "type":"Sports",
     "title": "PUBG",
     "description": "Attack",
-    "date":"02-02-2021",
+    "date":"2020-02-19",
     "time":"20:45",
     "venue":"GT Road"
   },
@@ -41,7 +41,7 @@
     "type":"Speaking",
     "title": "TEDx",
     "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-    "date":"01-02-2021",
+    "date":"2020-02-20",
     "time":"20:45",
     "venue":"MALL"
   }
